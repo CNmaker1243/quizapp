@@ -59,10 +59,8 @@ header {
     border-radius: 999px;
     padding: 4px;
     display: flex;
-    justify-content: flex-end;
     cursor: pointer;
 }
-
 .tema button div {
     background: var(--white);
     width: 12px;
@@ -107,7 +105,9 @@ main {
     font-size: 18px;
     font-weight: 500;
     color: var(--primary-text-color);
+    cursor: pointer;
 }
+
 .assuntos button div {
     width: 40px;
     height: 40px;
